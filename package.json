@@ -1,0 +1,14 @@
+{
+  "name": "SOSful-CoAP-plugin",
+  "version": "0.1.0",
+  "author": "Juan Pradilla",
+  "description": "CoAP - Constrained Application Protocol (RFC 7252 ) - plugin for SOSful",
+  "private": true,
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "coap": "^0.13.1"
+  },
+  "license": "MIT"
+}
